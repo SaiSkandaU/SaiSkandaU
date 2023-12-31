@@ -1,5 +1,5 @@
 ## 💫 About Me:
-I'm Sai Skanda U 2nd year B.E(Info science) undergrad at Sir M Visvesvaraya Institute of technology.<br>I'm currently learning data structures and Algorithms and proficient in C and C++ programming. I am an Intermediate flutter app developer.<br>I have grasp on Dart code also.<br>I am amateur portrait photographer.<br>Thank you.
+I'm Sai Skanda U 2nd year B.E(Info science) undergrad at Sir M Visvesvaraya Institute of technology.<br>I'm currently learning data structures and Algorithms and proficient in C and C++ programming. I am an Intermediate flutter app developer.<br>I have grasp on Dart code,Firebase authentication,API integration.<br>I am amateur portrait photographer.<br>Thank you.
 
 
 ## 🌐 Socials:
