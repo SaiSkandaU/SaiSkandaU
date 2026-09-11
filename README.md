@@ -1,14 +1,6 @@
 ## 💫 About Me:
-## 💫 About Me:
 
-I'm **Sai Skanda U**, an M.Tech AI/ML student at Vellore Institute of Technology, Chennai.
-
-- 🎓 **Education:** M.Tech in AI/ML at VIT Chennai
-- 💻 **Programming Languages:** C, C++, Python
-- 🤖 **Core Focus:** Machine Learning, AI, Large Language Models (LLMs), and Model Context Protocol (MCP)
-- 🛠️ **ML & Frameworks:** Designing & implementing models for predictive analysis and classification using TensorFlow and PyTorch
-- ⚙️ **Key Skills:** ML Model Building, API Integration, and Agentic Workflows
-
+I'm **Sai Skanda U**, an M.Tech AI/ML student at Vellore Institute of Technology, Chennai, with a strong foundation in C, C++, and Python. My primary expertise lies in designing and implementing machine learning models for predictive analysis and classification using TensorFlow and PyTorch. Beyond traditional ML, I actively specialize in working with Large Language Models (LLMs), Artificial Intelligence, and the Model Context Protocol (MCP). I am passionate about building intelligent systems, integrating scalable APIs, and driving modern AI-powered solutions.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saiskanda_u) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sai Skanda U) 
