@@ -16,6 +16,3 @@ I'm **Sai Skanda U**, an M.Tech AI/ML student at Vellore Institute of Technology
 ![MCP](https://img.shields.io/badge/MCP-Anthropic-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![](https://github-readme-stats.vercel.app/api?username=SaiSkandaU&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SaiSkandaU&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSkandaU&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
