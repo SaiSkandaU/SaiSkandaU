@@ -1,5 +1,13 @@
 ## 💫 About Me:
-I'm Sai Skanda U,a M.Tech AI/ML  student from Vellore Institute of Technology Chennai.<br>I'm proficient in Programming languages like C/C++, Python, Dart.I have good grasp building ML Models,working with LLM's.<br>I have grasp on Dart code,Firebase authentication,API integration,profiecient in ML with Python ,designed and implemented ML models for predictive analysis and classification using Python, TensorFlow,and PyTorch.<br>I am amateur portrait photographer.<br>Thank you.
+## 💫 About Me:
+
+I'm **Sai Skanda U**, an M.Tech AI/ML student at Vellore Institute of Technology, Chennai.
+
+- 🎓 **Education:** M.Tech in AI/ML at VIT Chennai
+- 💻 **Programming Languages:** C, C++, Python
+- 🤖 **Core Focus:** Machine Learning, AI, Large Language Models (LLMs), and Model Context Protocol (MCP)
+- 🛠️ **ML & Frameworks:** Designing & implementing models for predictive analysis and classification using TensorFlow and PyTorch
+- ⚙️ **Key Skills:** ML Model Building, API Integration, and Agentic Workflows
 
 
 ## 🌐 Socials:
